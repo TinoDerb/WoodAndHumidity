@@ -1,4 +1,4 @@
-def convertVwToMC(R, T = np.nan):
+def convertRToMC(R, T = np.nan):
     '''
     Inputs: resistance of the wood piece in Megaohm
     returns the MC of wood in %
